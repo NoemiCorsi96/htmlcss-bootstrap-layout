@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+.container{
+   
+    margin-top: 40px;
+
+    h2,p{
+        text-align: center;
+    }
+}
+}
+.row{
+    margin: 2rem 0;
+   
+}
+main{
+.container{
+    .row{
+    div{
+        padding: 1.5rem;
+    }
+}
+}
+}
